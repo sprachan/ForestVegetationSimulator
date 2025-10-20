@@ -47,7 +47,7 @@ C
       INCLUDE 'ORGANON.F77'
 C
 C
-      INCLUDE 'WDBKWTDATA.INC' 
+      INCLUDE 'wdbkwtdata.inc' 
 C
 COMMONS
 C

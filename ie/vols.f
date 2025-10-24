@@ -44,7 +44,7 @@ C
       INCLUDE 'GGCOM.F77'
 C
 C
-      INCLUDE 'WDBKWTDATA.INC' 
+      INCLUDE 'wdbkwtdata.inc' 
 COMMONS
 C
 C----------

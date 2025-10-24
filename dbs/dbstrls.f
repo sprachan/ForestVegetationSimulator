@@ -40,7 +40,7 @@ C
       INCLUDE 'DBSCOM.F77'
 C
 C
-      INCLUDE 'WDBKWTDATA.INC'
+      include 'wdbkwtdata.inc'
 C
 C
 COMMONS
